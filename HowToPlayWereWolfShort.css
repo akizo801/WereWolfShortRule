@@ -1,0 +1,92 @@
+header h3{
+    font-size: 15px;
+    text-align: right;
+    color: white;
+}
+
+header h1{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+header h2{
+    text-align: center;
+    font-size: 19px;
+    color: white;
+    line-height: 50px;
+}
+
+header{
+    background-color: black;
+    background-size: cover;
+}
+
+.style01{
+    color: yellow;
+}
+
+article h1{
+    text-align: center;
+}
+
+article ul{
+    list-style-position: inside;
+    border: 3px solid green;
+    background-color: gray;
+    margin-left: 33%;
+    margin-right: 33%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+main h1{
+    border-bottom: 3px solid pink;
+}
+
+.list01{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.list02{
+    font-size: 14px;
+    float: left;
+    margin-right: 50px;
+}
+
+.ulist01{
+    list-style-type: square;
+}
+
+.ulist02{
+    list-style-type: circle;
+    overflow: hidden;
+}
+
+.container{
+    margin: 0px auto;
+    display:flex;
+}
+
+.item02{
+    width: 30px;
+}
+
+.p01{
+    font-size: 15px;
+}
+
+.list03{
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.list00{
+    border-bottom: 3pt solid orangered;
+}
+
+.table01{
+    text-align: start;
+}
